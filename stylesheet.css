@@ -50,6 +50,7 @@ li a:hover {
     display: block;
     padding: 16px;
     background: transparent;
+    background: linear-gradient(to right, orange, #ec38bc, #7303c0, cyan);  
 }
 
 .art2 {
